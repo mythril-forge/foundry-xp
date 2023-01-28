@@ -1,12 +1,12 @@
 {
-	"name": "myhtril-forge-foundry-",
+	"name": "myhtril-forge-xp",
 	"title": "Homebrew XP",
 	"description": "Modifies XP system in 5e.",
 	"systems": ["dnd5e"],
 	"version": "1.0.0",
 	"author": "Nolan Kovacik (noltron000)",
 	"esmodules": [
-		"mythril-forge-xp.js"
+		"myhtril-forge-xp.js"
 	],
 	"minimumCoreVersion": "0.6.2",
 	"compatibleCoreVersion": "0.6.2",
